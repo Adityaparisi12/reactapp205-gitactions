@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "home page": "https://github.com/Adityaparisi12/reactapp205",
+  "home page": "https://github.com/Adityaparisi12/reactapp205-gitactions",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
